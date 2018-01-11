@@ -1,0 +1,40 @@
+body{ 
+	background-color:#858585;
+    margin: 0;
+    padding: 0;
+}
+img{
+	max-height:100%;
+}
+div{color:#ffffff;
+    font-size: 25px;
+}
+	
+}
+h1{
+	color:red;
+	text-align:center;
+}
+tr{ background-color:#e0b4b4;
+    font-size: 25;
+    text-align: center;
+}
+td{
+	background-color:#adacac;
+	font-size:20px;
+	padding: 10px;
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+padding-left: 20px
+}
+ td, th {
+    border: 1px solid #ddd;
+    padding: 8px;
+	padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    color: red;
+	background-color: #ddd;
+	
+}
